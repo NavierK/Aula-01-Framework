@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(195, 191, 199);
+    border-style: solid;
+    border-color: rgb(255, 238, 5);
+    height: 100px;
+}
+footer{
+    border-style: solid;
+    border-color: black;
+    bottom: 0;;
+}
+footer{
+display: flex;
+height: 12vh;
+position: absolute;
+width: 100%;
+}
+main{
+    margin-top: 100px;
+    border-color: red;
+    border-style: solid;
+    display:flex;
+    justify-content: space-around;
+}
+.box1{
+    border-style: solid;
+    border-color:blue;
+    width:400px;
+    height:200px; 
+    margin: 100px 0px 100px 0px;
+}
+.box2{
+    border-style: solid;
+    border-color:blue;
+    width:400px;
+    height:200px; 
+    margin: 100px 0px 100px 0px;
+}
